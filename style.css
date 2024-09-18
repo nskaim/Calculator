@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:#546786;
+    text-align: center;
+}
+
+
+
+.inpus{
+    
+    color: #b0413e;
+    font-size: 40px;
+    margin-top: 100px;
+    border-radius: 0.8rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0.3);
+}
+
+.gride{
+    height: 80vmin;
+   
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+
+
+}
+.claculate{
+    height: 60vmin;
+    width: 60vmin;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5vmin;
+
+}
+.box{
+    height: 12vmin;
+    width: 12vmin;
+    border-radius: 1rem;
+    border: none;
+    box-shadow: 0 0 1rem rgba(0,0,0.3);
+    font-size: 7vmin;
+    color: blue;
+
+}
+
+   
